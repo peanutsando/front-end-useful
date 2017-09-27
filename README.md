@@ -41,16 +41,16 @@ source by [this](https://www.codementor.io/wapjude/30-useful-tools-and-libraries
 
 # Additional libraries
 
-[babel](https://github.com/babel/babel) - ES6 -> ES5
-[webpack](https://github.com/webpack/webpack) - module bundler
-[ESLint](https://github.com/eslint/eslint) - javascript Standardized grammar tools
-[Nuxt](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
-[VueJS](https://github.com/vuejs/vue) - javascript framework
-[yarn](https://github.com/yarnpkg/yarn) - Package manager
-[moment](https://github.com/moment/moment/) - about timezone
-[lodash](https://github.com/lodash/lodash) - object, array manager
-[aweswome-vue](https://github.com/vuejs/awesome-vue) - explain about vue layout, design
-[vue-material](http://vuematerial.io/#/) - how to use vue material icon/component
-[element-ui](https://github.com/ElemeFE/element) - vue element ui
-[gitignore](https://github.com/github/gitignore) - git ignore tips
-[airbnb-javascript](https://github.com/airbnb/javascript) - with ESLint
+- [babel](https://github.com/babel/babel) - ES6 -> ES5
+- [webpack](https://github.com/webpack/webpack) - module bundler
+- [ESLint](https://github.com/eslint/eslint) - javascript Standardized grammar tools
+- [Nuxt](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
+- [VueJS](https://github.com/vuejs/vue) - javascript framework
+- [yarn](https://github.com/yarnpkg/yarn) - Package manager
+- [moment](https://github.com/moment/moment/) - about timezone
+- [lodash](https://github.com/lodash/lodash) - object, array manager
+- [aweswome-vue](https://github.com/vuejs/awesome-vue) - explain about vue layout, design
+- [vue-material](http://vuematerial.io/#/) - how to use vue material icon/component
+- [element-ui](https://github.com/ElemeFE/element) - vue element ui
+- [gitignore](https://github.com/github/gitignore) - git ignore tips
+- [airbnb-javascript](https://github.com/airbnb/javascript) - with ESLint
