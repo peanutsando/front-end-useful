@@ -59,3 +59,6 @@ source by [this](https://www.codementor.io/wapjude/30-useful-tools-and-libraries
 - [Chart.js](http://www.chartjs.org/) - for designer and developers to add beatiful charts to site.
 - [Hammer.js](http://hammerjs.github.io/) - help you add support for touch getstures on your site.
 - [Mocha](https://mochajs.org/) - Javascript framework runs on Node.js
+
+# About Vue js Curated
+- [Useful Vue js Package](https://curated.vuejs.org/)
