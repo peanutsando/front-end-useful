@@ -18,7 +18,7 @@ Some have probably seen most of these, but I’m glad if someone discovers somet
 [Animstion](http://git.blivesta.com/animsition/) — Jquery plugin for css animated page transitions  
 [Barba.js](https://github.com/luruke/barba.js) — Fluid page transitions  
 [TwentyTwenty](http://zurb.com/playground/twentytwenty) — A visual diff tool to spot differences  
-[Vivus.js ](https://github.com/maxwellito/vivus#vivusjs)— A library for making drawing animation on SVG  
+[Vivus.js](https://github.com/maxwellito/vivus#vivusjs)— A library for making drawing animation on SVG  
 [Wow.js](http://mynameismatthieu.com/WOW/) — Reveal animations when you scroll  
 [Scrolline.js](https://github.com/anthonyly/Scrolline.js) — See how much you have scrolled untill the end of the page  
 [Velocity.js](http://velocityjs.org/) — Very fast and smooth javascript animations  
@@ -59,6 +59,7 @@ source by [this](https://www.codementor.io/wapjude/30-useful-tools-and-libraries
 - [Chart.js](http://www.chartjs.org/) - for designer and developers to add beatiful charts to site.
 - [Hammer.js](http://hammerjs.github.io/) - help you add support for touch getstures on your site.
 - [Mocha](https://mochajs.org/) - Javascript framework runs on Node.js
+- [Axios](https://github.com/axios/axios) - Promise based HTTP Client for the browser and node.js
 
 # About Vue js Curated
 - [Useful Vue js Package](https://curated.vuejs.org/)
