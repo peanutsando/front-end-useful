@@ -8,6 +8,7 @@
 # Additional libraries
 ## General-Purpose Task Runners
 - [yarn](https://github.com/yarnpkg/yarn) - Package manager
+- [pnpm](https://pnpm.js.org) - Fast, Disk space efficient package manager
 ## Module Bundlers
 - [webpack](https://github.com/webpack/webpack) - bundle up application dependencies.
 ## Linting
@@ -16,6 +17,7 @@
 ## Test Suites
 - [Mocha](https://mochajs.org/) - Javascript framework test runs on Node.js
 - [Jasmine](https://jasmine.github.io/) - a behavior-driven development framework for testing JavaScript code.
+- [Study](https://github.com/dollarshaveclub/study) - testing library designed to be clear, minimal, and flexible.
 ## JavaScript/Node.JS Utils
 - [moment](https://github.com/moment/moment/) - Parse, validate, manipulate, and display dates and times in JavaScript
 - [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance & extras.
@@ -27,12 +29,21 @@
 - [Slick](http://kenwheeler.github.io/slick/) - solve all of your carousel needs.
 - [Chart.js](http://www.chartjs.org/) - for designer and developers to add beatiful charts to site.
 - [Hammer.js](http://hammerjs.github.io/) - help you add support for touch getstures on your site.
+- [bojiler](http://bojler.slicejack.com/) - Email framework for developing responsive and lightweight email templates that will render correctly across each of the most popular email clients.
+- [primer-css](http://primercss.io/) - The CSS framework that powers GitHub's front-end design.
+- [r2](https://github.com/mikeal/r2) - Early in Node.js I wrote an HTTP client library called request
+- [Push](https://pushjs.org/) - The world's most versatile desktop notifications framework
+- [lozard](https://github.com/ApoorvSaxena/lozad.js) - lazy loads elements performantly using pure JavaScript
+- [Devicon](http://konpa.github.io/devicon/) - representing programming languages, designing & development tools.
+- [billboardjs](https://naver.github.io/billboard.js/) - Javascript chart library, based on D3 v4+
+- [EAGLE.JS](https://zulko.github.io/eaglejs-demo/#/) - a web-based slideshow framework for Vue.js
 ## Compiler
-- [babel](https://github.com/babel/babel) - Simple javascript compiler, use it without wating for browser support to catch up.
+- [BABEL](https://github.com/babel/babel) - Simple javascript compiler, use it without wating for browser support to catch up.
 ## About Git
 - [gitignore](https://github.com/github/gitignore) - git ignore tips
 ## ServerSide Rendering
 - [Nuxt](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
+
 
 # About Vue js Curated
 - [Useful Vue js Package](https://curated.vuejs.org/)
