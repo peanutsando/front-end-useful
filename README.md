@@ -37,6 +37,7 @@
 - [Devicon](http://konpa.github.io/devicon/) - representing programming languages, designing & development tools.
 - [billboardjs](https://naver.github.io/billboard.js/) - Javascript chart library, based on D3 v4+
 - [EAGLE.JS](https://zulko.github.io/eaglejs-demo/#/) - a web-based slideshow framework for Vue.js
+- [Swiper](https://github.com/surmon-china/vue-awesome-swiper) - Swiper component for Vue.js
 ## Compiler
 - [BABEL](https://github.com/babel/babel) - Simple javascript compiler, use it without wating for browser support to catch up.
 ## About Git
