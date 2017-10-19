@@ -4,7 +4,7 @@
 - [React](https://reactjs.org/) - Javascript Front-end framework
 - [Ember.js](https://www.emberjs.com/) - Javascript Front-end framework
 - [jQuery](https://jquery.com/) - Javascript Front-end framework
---------------------------------
+
 # Additional libraries
 ## General-Purpose Task Runners
 - [yarn](https://github.com/yarnpkg/yarn) - Package manager
@@ -33,10 +33,10 @@
 - [gitignore](https://github.com/github/gitignore) - git ignore tips
 ## ServerSide Rendering
 - [Nuxt](https://github.com/nuxt/nuxt.js) - Versatile Vue.js Framework
---------------------------------
+
 # About Vue js Curated
 - [Useful Vue js Package](https://curated.vuejs.org/)
---------------------------------
+
 # Best Vue.js UI Frameworks for Building Mobile Apps
 - [Quasar](http://quasar-framework.org/) - Build hybrid mobile apps with near-native like user interface
 - [Onsen UI](https://onsen.io/vue/) - Offer Framework-agnostic UI Components which supports AngularJS, React, Vue.js...
@@ -49,10 +49,10 @@
 - [vue-material](http://vuematerial.io/#/) - how to use vue material icon/component
 - [element-ui](https://github.com/ElemeFE/element) - vue element ui
 - [Vue-Blu](https://chenz24.github.io/vue-blu/#/) - UI Component Library based on Vue.js 2.x and Bulma CSS framework
---------------------------------
+
 # Vue.js based Native App Development Framework
 - [Weex](https://weex-project.io/) - a similar framework by the Alibaba group, which works with Vue.js and allows you to build cross-platform native mobile apps.
---------------------------------
+
 # 30 useful tools and libraries for saving your time as a web developer
 
 Some have probably seen most of these, but I’m glad if someone discovers something new and useful.
@@ -78,7 +78,7 @@ Some have probably seen most of these, but I’m glad if someone discovers somet
 [Scrolline.js](https://github.com/anthonyly/Scrolline.js) — See how much you have scrolled untill the end of the page  
 [Velocity.js](http://velocityjs.org/) — Very fast and smooth javascript animations  
 [Animate on scroll](http://michalsnik.github.io/aos/) — Pretty straightforward
---------------------------------
+
 ## [](#css-libraries)CSS Libraries
 
 [Topcoat](http://topcoat.io/) — Framework  
